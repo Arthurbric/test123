@@ -9,7 +9,7 @@
 ### Índice
 
 - [Sobre mim](#sobre-mim)
-- [Introdução](#introdução)
+- [Introdução](#introducao)
 - [Assista ao vídeo](https://www.youtube.com/watch?v=47ZcCMgKNWw)
 - [Infraestrutura](#infraestrutura)
 - [Rancher Kubernetes (RKE2)](#rancher-kubernetes-rke2)
